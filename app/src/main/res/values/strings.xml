@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coding Challange</string>
+    <string name="box_one">Biru</string>
+    <string name="box_two">Merah</string>
+    <string name="box_three">Hijau</string>
+    <string name="box_four">Kuning</string>
+    <string name="box_five">Hitam</string>
+    <string name="box_six">Clear</string>
+    <string name="how_to_play">How to play:</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+</resources>
